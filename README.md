@@ -1,5 +1,6 @@
 # Hamming-Code
-Hamming code for a simple error detection and correction mechanism in C programing language 
+Hamming code for a simple error detection and correction mechanism in C programing language.
+
 Here's a step-by-step description of the code:
 
 Initialization:
