@@ -3,7 +3,14 @@ Hamming code for a simple error detection and correction mechanism in C programi
 
 ---
 
-Here's a step-by-step description of the code:
+**About Hamming Code**
+Hamming code is a type of error-correcting code named after its inventor, Richard Hamming. 
+It is designed to detect and correct single bit errors in binary data. 
+The basic idea behind Hamming codes is to add redundant bits to the original data in such a way that the errors can be detected and corrected.
+
+---
+
+**Here's a step-by-step description of the code:**
 
 **Initialization:**
 
