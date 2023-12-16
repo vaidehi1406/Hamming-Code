@@ -1,0 +1,55 @@
+**Output 1**
+
+This works for messages of 5 bits in size.
+Enter the 5-bit message one by one:
+1
+0
+1
+1
+1
+
+The encoded bits are given below:
+111001111
+Enter the received 7 bits one by one:
+1
+1
+1
+1
+0
+1
+1
+1
+1
+
+Error at position 4.
+The correct message is:
+111001111
+
+---
+
+**Output 2**
+
+This works for messages of 5 bits in size.
+Enter the 5-bit message one by one:
+1
+0
+1
+0
+1
+
+The encoded bits are given below:
+001101011
+Enter the received 7 bits one by one:
+0
+0
+1
+1
+0
+1
+0
+1
+1
+
+Congratulations, there is no error.
+
+---
